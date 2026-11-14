@@ -1,1 +1,0 @@
-# spe-usmc-vehicles

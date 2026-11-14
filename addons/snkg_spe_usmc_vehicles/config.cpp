@@ -40,7 +40,7 @@ class CfgVehicles {
 				dlc = SPE;
 				textures[] = {"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa", "WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa", "WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa", "\snkg_spe_usmc_vehicles\data\G503_MB_USMC_ca.paa", "\snkg_spe_usmc_vehicles\data\Usmc_ca_light.paa"};
 			};
-			class USMC_MP_NoStar {
+			class USMC_NoStar {
 				displayName = "USMC (no star)";
 				author = "Heavy Ordnance Works";
 				dlc = SPE;
@@ -91,7 +91,7 @@ class CfgVehicles {
 				dlc = SPE;
 				textures[] = {"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa", "WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa", "WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa", "\snkg_spe_usmc_vehicles\data\G503_MB_USMC_ca.paa", "\snkg_spe_usmc_vehicles\data\Usmc_ca_light.paa"};
 			};
-			class USMC_MP_NoStar {
+			class USMC_NoStar {
 				displayName = "USMC (no star)";
 				author = "Heavy Ordnance Works";
 				dlc = SPE;
@@ -142,7 +142,7 @@ class CfgVehicles {
 				dlc = SPE;
 				textures[] = {"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa", "WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa", "WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa", "\snkg_spe_usmc_vehicles\data\G503_MB_USMC_ca.paa", "\snkg_spe_usmc_vehicles\data\Usmc_ca_light.paa"};
 			};
-			class USMC_MP_NoStar {
+			class USMC_NoStar {
 				displayName = "USMC (no star)";
 				author = "Heavy Ordnance Works";
 				dlc = SPE;
@@ -193,7 +193,7 @@ class CfgVehicles {
 				dlc = SPE;
 				textures[] = {"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa", "WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa", "WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa", "\snkg_spe_usmc_vehicles\data\G503_MB_USMC_ca.paa", "\snkg_spe_usmc_vehicles\data\Usmc_ca_light.paa"};
 			};
-			class USMC_MP_NoStar {
+			class USMC_NoStar {
 				displayName = "USMC (no star)";
 				author = "Heavy Ordnance Works";
 				dlc = SPE;
@@ -244,7 +244,7 @@ class CfgVehicles {
 				dlc = SPE;
 				textures[] = {"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa", "WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa", "WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa", "\snkg_spe_usmc_vehicles\data\G503_MB_USMC_ca.paa", "\snkg_spe_usmc_vehicles\data\Usmc_ca_light.paa"};
 			};
-			class USMC_MP_NoStar {
+			class USMC_NoStar {
 				displayName = "USMC (no star)";
 				author = "Heavy Ordnance Works";
 				dlc = SPE;
@@ -295,7 +295,7 @@ class CfgVehicles {
 				dlc = SPE;
 				textures[] = {"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa", "WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa", "WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa", "\snkg_spe_usmc_vehicles\data\G503_MB_USMC_ca.paa", "\snkg_spe_usmc_vehicles\data\Usmc_ca_light.paa"};
 			};
-			class USMC_MP_NoStar {
+			class USMC_NoStar {
 				displayName = "USMC (no star)";
 				author = "Heavy Ordnance Works";
 				dlc = SPE;
